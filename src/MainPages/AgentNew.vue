@@ -10,7 +10,7 @@
           class="flex mx-auto items-center justify-center custom-sm:items-center custom-sm:justify-center custom-sm:flex"
         >
           <img
-            src="src/assets/mgLogo.png"
+            src="https://img.freepik.com/free-vector/gradient-real-estate-youtube-thumbnail_23-2149143188.jpg"
             class="lg:h-30 lg:w-50 md:h-20 md:w-35 custom-sm:w-[30%] custom-sm:h-[20%]"
             alt="megaland"
           />
