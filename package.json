@@ -13,6 +13,7 @@
     "@tensorflow/tfjs": "^4.17.0",
     "@tensorflow/tfjs-layers": "^4.17.0",
     "@vueuse/core": "^10.9.0",
+    "axios": "^1.6.8",
     "flowbite": "^2.3.0",
     "flowbite-datepicker": "^1.2.6",
     "heroicons": "^2.1.3",

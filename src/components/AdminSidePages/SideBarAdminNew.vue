@@ -25,7 +25,7 @@
     </div>
 
     <img
-      src="https://img.freepik.com/free-vector/gradient-real-estate-youtube-thumbnail_23-2149143188.jpg"
+      src="https://megalandrealty.com/image/catalog/272111904_3101243066800988_6003452442657631422_n.jpg"
       class="lg:h-40 lg:w-50 md:h-20 md:w-35 custom-sm:w-[65%] custom-sm:h-[13%] mx-auto my-[10%] rounded-lg"
       alt="megaland"
     />
