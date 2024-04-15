@@ -11,7 +11,7 @@
             class="flex mx-auto items-center justify-center custom-sm:items-center custom-sm:justify-center custom-sm:flex"
           >
             <img
-              src="src/assets/mgLogo.png"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZJObv3XO03VK_UYnIjakns9-a-5uQqt1AVH90YJ-rkw&s"
               class="lg:h-40 lg:w-50 md:h-20 md:w-35 custom-sm:w-[30%] custom-sm:h-[20%]"
               alt="megaland"
             />
@@ -254,10 +254,7 @@
                       </div>
                     </th>
                     <td class="custom-sm:w-[20%] custom-sm:h-[20%] md:w-[10%]">
-                      <img
-                        class="md:w-[80%] lg:w-[80%] custom-sm:w-[80%] mx-auto my-2"
-                        src="src/assets/images/Youtube-Images/image1.png"
-                      />
+                  
                     </td>
                     <td class="px-6">{{blog.broker}}</td>
                     <td class="px-6">{{blog.name}}</td>

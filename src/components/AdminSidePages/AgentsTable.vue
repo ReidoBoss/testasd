@@ -11,7 +11,7 @@
             class="flex mx-auto items-center justify-center custom-sm:items-center custom-sm:justify-center custom-sm:flex"
           >
             <img
-              src="src/assets/mgLogo.png"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZJObv3XO03VK_UYnIjakns9-a-5uQqt1AVH90YJ-rkw&s"
               class="lg:h-40 lg:w-50 md:h-20 md:w-35 custom-sm:w-[30%] custom-sm:h-[20%]"
               alt="megaland"
             />

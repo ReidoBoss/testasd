@@ -18,7 +18,7 @@
               class="mb-1 text-xl font-bold leading-tight tracking-tight text-primary md:text-2xl md:pb-[5%]"
             >
               <img
-                src="src/assets/mgLogo.png"
+                src="https://img.freepik.com/free-vector/gradient-real-estate-youtube-thumbnail_23-2149143188.jpg"
                 class="lg:h-40 lg:w-50 md:h-20 md:w-35 custom-sm:w-[30%] custom-sm:h-[20%] mx-auto"
                 alt="megaland"
               />

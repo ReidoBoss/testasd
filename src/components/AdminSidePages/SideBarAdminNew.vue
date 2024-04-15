@@ -25,7 +25,7 @@
     </div>
 
     <img
-      src="src/assets/mgLogo.jpg"
+      src="https://img.freepik.com/free-vector/gradient-real-estate-youtube-thumbnail_23-2149143188.jpg"
       class="lg:h-40 lg:w-50 md:h-20 md:w-35 custom-sm:w-[65%] custom-sm:h-[13%] mx-auto my-[10%] rounded-lg"
       alt="megaland"
     />
